@@ -76,7 +76,7 @@ values('GOODRAM SSDPR-CL100-060 60GB', 0, 3, 4);
 insert into test.parts(`partname`, `partbase`, `partqty`, `parttype`)
 values('GEMBIRD CCC-PSU1B', 1, 0, 5);
 insert into test.parts(`partname`, `partbase`, `partqty`, `parttype`)
-values('DELUX DLP-23MS', 1, 3, 5);
+values('DELUX DLP-23MS', 1, 3, 6);
 insert into test.parts(`partname`, `partbase`, `partqty`, `parttype`)
 values('FRIME 80x80x25 4pin Black', 0, 22, 7);
 insert into test.parts(`partname`, `partbase`, `partqty`, `parttype`)
